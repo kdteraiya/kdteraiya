@@ -6,6 +6,8 @@
   A passionate frontend developer from India <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25">
 </h3>
 
+🔭 I’m currently working on **[🚀 Most Starred Repo](https://most-starred-git-repos.netlify.app/)** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 💬 Ask me about **Frontend Development.**
 
 📫 How to reach me **kdteraiya96@gmail.com**
